@@ -10,3 +10,4 @@
 - [siliconflow](./siliconflow/config.lua)
 - [chatanywhere](./chatanywhere/)
 - [copilot](./copilot/config.lua)
+- [requesty](./requesty/config.lua)
